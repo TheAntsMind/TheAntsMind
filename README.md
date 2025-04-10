@@ -41,7 +41,7 @@ Para más información, visita [TheAntsMind](https://github.com/TheAntsMind).
 ---
 
 ![Hormigas en acción](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ant_colony_cropped.jpg)
-
+(hormigasaiscristhiamquinonez.medium.com)
 ---
 
 **"La mente curiosa y la colaboración humana."**
