@@ -1,5 +1,5 @@
-# TheAntsMind  
-**Automatización y Sabiduría Colectiva**
+0# TheAntsMind  
+**Automatización y Sabiduría Colectiva**// © 2025 Cristhiam Quiñonez | HormigasAIS. Licencia MIT.
 
 Bienvenido a **TheAntsMind**, un ecosistema digital creado por *[HormigasAIS](https://github.com/HormigasAIS-ux)* que explora la inteligencia colectiva, la automatización y el poder de los sistemas distribuidos inspirados en el comportamiento de las hormigas.
 
@@ -44,4 +44,4 @@ Para más información, visita [TheAntsMind](https://github.com/TheAntsMind).
 (https://hormigasaiscristhiamquinonez.medium.com)
 ---
 
-**"La mente curiosa y la colaboración humana."**
+**"La mente curiosa y la colaboración humana."**// © 2025 Cristhiam Quiñonez | HormigasAIS. Licencia MIT.
